@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "React Context (O_O)"
-date:   2017-06-08 14:35:10 +0530
+date:   2017-06-27 14:35:10 +0530
 categories: react context "communication across elements" es6
 ---
 
