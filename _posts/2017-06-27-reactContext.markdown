@@ -99,7 +99,7 @@ class Parent extends Component {
 
     render () {
         return <div>
-            <Child>
+            <Child/>
         </div>
     }
 }
@@ -111,7 +111,7 @@ class Child extends Component {
     }
 
     render = () => <div>
-        ...
+        {this.context.server()}
     </div>
 }
 
