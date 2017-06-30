@@ -17,5 +17,12 @@ url: "jaiswal-ruhil.github.io" # the base hostname & protocol for your site
 twitter_username: Jaiswal_Ruhil
 github_username:  Jaiswal-ruhil
 linkedin_url: jaiswalruhil
+resume: /static/pdf/resume.pdf
+
 # Build settings
+exclude: [
+    package.json, resources,
+    node_modules,
+    .eslintrc.js, .babelrc, webpack.config.js
+]
 markdown: kramdown
