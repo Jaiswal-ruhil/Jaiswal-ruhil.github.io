@@ -7,7 +7,7 @@ const JSExport = path.join(__dirname, 'static', 'scripts')
 
 module.exports = {
     'entry': {
-        'resume': "./resources/js/resume.js"
+        'tags': "./resources/js/tags.js"
     },
     'output': {
         'filename': "[name].bundle.js",
