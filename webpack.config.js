@@ -7,6 +7,7 @@ const JSExport = path.join(__dirname, 'static', 'scripts')
 
 module.exports = {
     'entry': {
+        'share': "./resources/js/share.js",
         'tags': "./resources/js/tags.js"
     },
     'output': {
