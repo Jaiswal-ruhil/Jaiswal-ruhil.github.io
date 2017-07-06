@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "React + ES6 + Material-UI, with webpack"
+title:  React + ES6 + Material-UI, with webpack
 date:   2017-06-30 22:44:00 +0530
 categories: post development
 tags: react, webpack, development, configuration

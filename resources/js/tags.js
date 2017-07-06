@@ -10,10 +10,11 @@ injectTapEventPlugin();
 
 const scriptVal = document.currentScript.getAttribute('tags')
 const tags = scriptVal.split(',')
+const placeHolder = document.currentScript.getAttribute('placeHolder')
 
 ReactDOM.render(
     <Wrapper>
         <TagsView tags={tags}/>
     </Wrapper>,
-    document.getElementById('integrateTags')
+    document.getElementById(placeHolder || 'integrateTags')
 );

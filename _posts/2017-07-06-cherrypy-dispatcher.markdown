@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cherrypy dispatcher"
+title:  Cherrypy dispatcher
 categories: technology
 tags: CherryPy, Python, dispatcher, dynamicRoutes
 ---
