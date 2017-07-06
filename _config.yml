@@ -22,6 +22,7 @@ resume: /static/pdf/resume.pdf
 
 # Build settings
 exclude: [
+    Gemfile,
     package.json, resources,
     node_modules,
     .eslintrc.js, .babelrc, webpack.config.js
