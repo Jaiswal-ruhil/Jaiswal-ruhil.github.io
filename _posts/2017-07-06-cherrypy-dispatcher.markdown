@@ -117,8 +117,7 @@ if __name__ == '__main__':
 {% endhighlight %}
 
 
-
-[web2py]: [http://www.web2py.com/]
-[django]: [https://www.djangoproject.com/]
-[cherrypy]: [http://cherrypy.org/]
-[officialPage]: [http://docs.cherrypy.org/en/latest/advanced.html]
+[web2py]: http://www.web2py.com/
+[django]: https://www.djangoproject.com/
+[cherrypy]: http://cherrypy.org/
+[officialPage]: http://docs.cherrypy.org/en/latest/advanced.html
